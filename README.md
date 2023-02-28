@@ -6,9 +6,9 @@ The project is built using Dotnet (.NET 6.0) and is developed on Windows.
 
 Instructions for using CNovo:
 
-To start, place the MS/MS spectrum file (.mgf) in the input folder (.\CNovo\Release\net6.0\Input), then double-click CNovo.exe, the result of de novo sequencing of CNovo will appear in the Output folder (.\CNovo\Release\net6.0\Output).
+To start, place the MS/MS spectrum file (.mgf) in the Input folder (.\CNovo\Release\net6.0\Input), then double-click CNovo.exe, the result of de novo sequencing of CNovo will appear in the Output folder (.\CNovo\Release\net6.0\Output).
 
 Instructions for using SpliceNovo:
 
-To start, place the MS/MS spectrum file (.mgf) in the input folder (.\SpliceNovo\Release\net6.0\Input), then double-click SpliceNovo.exe, the result of semi-de novo sequencing of SpliceNovo will appear in the Output folder (.\SpliceNovo\Release\net6.0\Output).
+To start, place the MS/MS spectrum file (.mgf) in the Input folder (.\SpliceNovo\Release\net6.0\Input), then double-click SpliceNovo.exe, the result of semi-de novo sequencing of SpliceNovo will appear in the Output folder (.\SpliceNovo\Release\net6.0\Output).
 
