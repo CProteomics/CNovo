@@ -1,6 +1,6 @@
 # CNovo & SpliceNovo
 
-The project is built with dotnet (.NET 6.0) development is done on windows.
+The project is built using Dotnet (.NET 6.0) and is developed on Windows.
 
 ![Figure 1](https://user-images.githubusercontent.com/74649216/221838732-0d97546a-888a-48a8-ad1b-20be1a1a95e3.png)
 
